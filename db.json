@@ -1,0 +1,199 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "second_name": "Michael",
+      "last_name": "Doe",
+      "owner_type": "PERSON",
+      "document_number": "123456789",
+      "document_type": "P",
+      "cuit": "20123456789",
+      "bank_account": "1234567890",
+      "birthdate": [
+        1980,
+        5,
+        15
+      ],
+      "is_validated": false,
+      "is_active": true,
+      "addresses": [
+        {
+          "id": 1,
+          "street_address": null,
+          "number": null,
+          "floor": null,
+          "apartment": null,
+          "city": null,
+          "province": null,
+          "country": null,
+          "postal_code": null,
+          "active": null
+        }
+      ],
+      "contacts": [
+        {
+          "id": 1,
+          "contact_type": null,
+          "contact_value": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "second_name": "Elizabeth",
+      "last_name": "Doe",
+      "owner_type": "PERSON",
+      "document_number": "987654321",
+      "document_type": "I",
+      "cuit": "27987654321",
+      "bank_account": "0987654321",
+      "birthdate": [
+        1985,
+        7,
+        20
+      ],
+      "is_validated": false,
+      "is_active": true,
+      "addresses": [
+        {
+          "id": 2,
+          "street_address": null,
+          "number": null,
+          "floor": null,
+          "apartment": null,
+          "city": null,
+          "province": null,
+          "country": null,
+          "postal_code": null,
+          "active": null
+        }
+      ],
+      "contacts": [
+        {
+          "id": 2,
+          "contact_type": null,
+          "contact_value": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "second_name": "Marie",
+      "last_name": "Smith",
+      "owner_type": "PERSON",
+      "document_number": "111223344",
+      "document_type": "P",
+      "cuit": "23111223344",
+      "bank_account": "1112233445",
+      "birthdate": [
+        1990,
+        3,
+        25
+      ],
+      "is_validated": false,
+      "is_active": true,
+      "addresses": [
+        {
+          "id": 3,
+          "street_address": null,
+          "number": null,
+          "floor": null,
+          "apartment": null,
+          "city": null,
+          "province": null,
+          "country": null,
+          "postal_code": null,
+          "active": null
+        }
+      ],
+      "contacts": [
+        {
+          "id": 3,
+          "contact_type": null,
+          "contact_value": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Bob",
+      "second_name": "William",
+      "last_name": "Johnson",
+      "owner_type": "PERSON",
+      "document_number": "444556677",
+      "document_type": "I",
+      "cuit": "24444556677",
+      "bank_account": "4445566778",
+      "birthdate": [
+        1983,
+        11,
+        10
+      ],
+      "is_validated": false,
+      "is_active": true,
+      "addresses": [
+        {
+          "id": 4,
+          "street_address": null,
+          "number": null,
+          "floor": null,
+          "apartment": null,
+          "city": null,
+          "province": null,
+          "country": null,
+          "postal_code": null,
+          "active": null
+        }
+      ],
+      "contacts": [
+        {
+          "id": 4,
+          "contact_type": null,
+          "contact_value": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Eve",
+      "second_name": "Sophia",
+      "last_name": "Williams",
+      "owner_type": "PERSON",
+      "document_number": "888999000",
+      "document_type": "P",
+      "cuit": "25888999000",
+      "bank_account": "8889990001",
+      "birthdate": [
+        1995,
+        2,
+        28
+      ],
+      "is_validated": false,
+      "is_active": true,
+      "addresses": [
+        {
+          "id": 5,
+          "street_address": null,
+          "number": null,
+          "floor": null,
+          "apartment": null,
+          "city": null,
+          "province": null,
+          "country": null,
+          "postal_code": null,
+          "active": null
+        }
+      ],
+      "contacts": [
+        {
+          "id": 5,
+          "contact_type": null,
+          "contact_value": null
+        }
+      ]
+    }
+  ]
+}
